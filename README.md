@@ -21,6 +21,8 @@ Objetivos específicos:
 
 ![Thevenin_CA](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Thevenin_CA.png)
 
+![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Mapa_Teorema_Norton.jpg)
+
 **3.DIAGRAMAS**
 
 A continuación se muestra un circuito equivalente de Thévenin en ca.
