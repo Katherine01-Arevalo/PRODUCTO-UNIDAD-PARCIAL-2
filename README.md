@@ -15,7 +15,8 @@ Objetivos específicos:
 
 •	Generar conocimiento y destreza en el uso de los teoremas para analizar circuitos en ca. 
 
-**2.MARCO TEÓRICO
+**2.MARCO TEÓRICO**
+
 ![superposicion](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/superpocicion.png)
 
 ![Thevenin_CA](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Thevenin_CA.png)
