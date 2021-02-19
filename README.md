@@ -23,6 +23,8 @@ Objetivos específicos:
 
 ![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Mapa_Teorema_Norton.jpg)
 
+![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Teorema_maximapotencia_transferida.png)
+
 **3.DIAGRAMAS**
 
 A continuación se muestra un circuito equivalente de Thévenin en ca.
