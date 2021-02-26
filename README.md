@@ -17,19 +17,19 @@ Objetivos específicos:
 
 **2.MARCO TEÓRICO**
 
-![superposicion](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/superpocicion.png)
+![superposicion](https://github.com/Katherine01-Arevalo/PRODUCTO-UNIDAD-PARCIAL-2/blob/main/img/superpocicion.png)
 
 
-![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Mapa_Teorema_Norton.jpg)
+![.](https://github.com/Katherine01-Arevalo/PRODUCTO-UNIDAD-PARCIAL-2/blob/main/img/Mapa_Teorema_Norton.jpg)
 
-
-![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Teorema_maximapotencia_transferida.png)
+![.](https://github.com/Katherine01-Arevalo/PRODUCTO-UNIDAD-PARCIAL-2/blob/main/img/Teorema_maximapotencia_transferida.png)
 
 **3.DIAGRAMAS**
 
 A continuación se muestra un circuito equivalente de Thévenin en ca.
 
 ![CA_Thevenin](https://github.com/Katherine01-Arevalo/PRODUCTO-UNIDAD-PARCIAL-2/blob/main/img/CA_Thevenin.jpg)
+
 **4.EXPLICACIÓN**
 
 
