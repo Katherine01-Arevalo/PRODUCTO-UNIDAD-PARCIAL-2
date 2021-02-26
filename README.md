@@ -29,8 +29,7 @@ Objetivos específicos:
 
 A continuación se muestra un circuito equivalente de Thévenin en ca.
 
-![CA_Thevenin](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/CA_Thevenin.jpg)
-
+![CA_Thevenin](https://github.com/Katherine01-Arevalo/PRODUCTO-UNIDAD-PARCIAL-2/blob/main/img/CA_Thevenin.jpg)
 **4.EXPLICACIÓN**
 
 
