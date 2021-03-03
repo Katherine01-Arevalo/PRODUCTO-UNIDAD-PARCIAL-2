@@ -27,6 +27,10 @@ Objetivos específicos:
 
 **3.DIAGRAMAS**
 
+Circuito para analizar mediante el metodo de superposición 
+
+![circuto](https://github.com/Katherine01-Arevalo/PRODUCTO-UNIDAD-PARCIAL-2/blob/main/img/19.46.png)
+
 A continuación se muestra un circuito equivalente de Thévenin en ca.
 
 ![CA_Thevenin](https://github.com/Katherine01-Arevalo/PRODUCTO-UNIDAD-PARCIAL-2/blob/main/img/CA_Thevenin.jpg)
@@ -35,6 +39,10 @@ A continuación se muestra un circuito equivalente de Thévenin en ca.
 
 
 **5.APORTACIONES**
+
+Simulacion de el ejercicio  4 para determinar el valor de la corriente  de la figura 19.46
+
+![circuito](https://github.com/Katherine01-Arevalo/PRODUCTO-UNIDAD-PARCIAL-2/blob/main/img/circuito.PNG)
 
 
 **6.CONCLUSIONES**
