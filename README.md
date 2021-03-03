@@ -39,6 +39,9 @@ A continuación se muestra un circuito equivalente de Thévenin en ca.
 
 **6.CONCLUSIONES**
 
+Dichos métodos facilitan en análisis de un circuito como se  estudió anteriormente cada procedimiento facilita el estudio de un circuito complejo , el método de superposición  facilita el análisis de un circuito si el mismo consta de varias fuentes de  voltaje o corriente como se estudió previamente  en circuitos de cd  se aplica  los mismos pasos.
+Facilita el uso de los datos a analizar ya que este método  se analiza por separado dependiendo que cuantas fuentes contiene, facilita y efectiviza  el estudio del circuito a ser estudiado.
+
 
 **7.BIBLIOGRAFÍAS**
 
